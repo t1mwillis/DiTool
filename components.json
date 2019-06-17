@@ -1,0 +1,65 @@
+
+{
+    "Shifter" : [
+        {
+            "name" : "ST-6770",
+            "speeds" : "10",
+            "groupset" : "Ultegra",
+            "ports" : "2"
+        },
+        {
+            "name" : "ST-6870",
+            "speeds" : "11",
+            "groupset" : "Ultegra",
+            "ports" : "3"
+        },
+        {
+            "name" : "ST-8050",
+            "speeds" : "11",
+            "groupset" : "Ultegra",
+            "ports" : "3"
+        },
+        {
+            "name" : "ST-8070",
+            "speeds" : "11",
+            "groupset" : "Ultegra",
+            "ports" : "2"
+        },
+        {
+            "name" : "ST-9070",
+            "speeds" : "11",
+            "groupset" : "Dura-Ace",
+            "ports" : "3"
+        },
+        {
+            "name" : "ST-9150",
+            "speeds" : "11",
+            "groupset" : "Dura-Ace",
+            "ports" : "3"
+        },
+        {
+            "name" : "ST-9170",
+            "speeds" : "11",
+            "groupset" : "Dura-Ace",
+            "ports" : "2"
+        }
+    ],
+    "Front Derailleur" : [
+
+    ],
+    "Rear Derailleur" : [
+
+    ],
+    "Battery" : [
+
+    ],
+    "Junction A" : [
+
+    ],
+    "Junction B" : [
+        
+    ],
+    "Other" : [
+
+    ]
+}
