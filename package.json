@@ -10,7 +10,6 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "install": "^0.12.2",
-    "npm": "^6.9.0",
     "vue": "^2.6.10",
     "vuejs-auto-complete": "^0.9.0"
   },
