@@ -1,28 +1,11 @@
 <template>
-    <li>
-        <select
-            v-model='item.type'
-        >
-            <option disabled selected value="Choose a Component">Choose a Component</option>
-            <option
-                v-for="(category, key) in categories"
-                :key="key"
-            >
-                {{ key }}
-            </option>
-        </select>
-        <Item
-            :models='categories[item.type]'
-            :type='item.type'
-            @handle-update='handleUpdate'
-        />
-        <p>{{item}}</p><button @click="removeRow">Remove me</button>
+    <li class='item'>
+        <p>✅ {{item.name}} - {{item.modelNo}}&nbsp;&nbsp;<button @click="removeRow" label="Remove Component">Remove</button></p>
+        <p><span class="small"><em>{{item.seriesName}}</em></span></p>
     </li>
 </template>
 
 <script>
-import Item from './Item.vue'
-import Categories from '../../components.json'
 
 export default {
     name: 'Row',
@@ -30,22 +13,9 @@ export default {
         item: Object,
         index: Number
     },
-    data() {
-        return {
-            categories: Categories,
-        }
-    },
-    components: {
-        Item,
-    },
     methods: {
         removeRow() {
             this.$emit('remove', this.index);
-        },
-        handleUpdate(newModel) {
-            console.log(newModel);
-            this.item.model = newModel;
-            console.log(`prop is now ${this.item.model}`)
         }
     }
 }
@@ -53,6 +23,13 @@ export default {
 
 <style>
 p {
-    display: inline-block
+    margin-top: 0;
+    margin-bottom: .5em;
 }
+ span.small {
+     font-size: .8em;
+ }
+
 </style>
+
+:tra

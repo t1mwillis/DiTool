@@ -1,16 +1,16 @@
 <template>
-<div>
-<h2>errors</h2>
-    <ul>
+<div class="error-wrap">
+<h3>Errors</h3>
+    <ul class="errors">
         <li
             v-show="!hasShifter"
         >
-            You need at least one shifter.
+            You need at least one Shifter.
         </li>
         <li
             v-show="!hasBattery"
         >
-            You need one batttery.
+            You need one Battery.
         </li>
         <li
             v-show="!hasJunctionA"
@@ -20,12 +20,12 @@
         <li
             v-show="maxShifters"
         >
-            You have too many shifters, maximum is 6.
+            You have too many Shifters, maximum is 6.
         </li>
         <li
             v-show="maxBattery"
         >
-            You can only have one battery.
+            You can only have one Battery.
         </li>
         <li
             v-show="maxRd"
@@ -36,6 +36,11 @@
             v-show="maxFd"
         >
             You can only have one Front Derailleur.
+        </li>
+        <li
+            v-show="maxWirelessUnit"
+        >
+            You can only have one Wireless Unit.
         </li>
     </ul>
     </div>
@@ -53,16 +58,19 @@ export default {
     },
     computed: {
         hasShifter() {
-            return findComponent(this.items, "Shifter");
+            return findComponent(this.items, "Shifting");
         },
         hasBattery() {
             return findComponent(this.items, "Battery");
         },
         hasJunctionA() {
-            return findComponent(this.items, "Junction A");
+            return findComponent(this.items, "Junction-A");
+        },
+        hasBatteryMount() {
+            return findComponent(this.items, "Battery Mount");
         },
         maxShifters() {
-            return maxComponent(this.items, "Shifter", 6);
+            return maxComponent(this.items, "Shifting", 6);
         },
         maxBattery() {
             return maxComponent(this.items, "Battery", 1);
@@ -74,11 +82,18 @@ export default {
             return maxComponent(this.items, "Rear Derailleur", 1);
         },
         maxJunctionA() {
-            return maxComponent(this.items, "Junction A", 1);
+            return maxComponent(this.items, "Junction-A", 1);
+        },
+        maxWirelessUnit() {
+            return maxComponent(this.items, "Wireless Unit", 1);
         }
     }
 }
 </script>
 
 <style>
+ul.errors li:before{
+    content: '🛑';
+    display: inline-block
+}
 </style>

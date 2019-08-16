@@ -1,7 +1,7 @@
-export function findComponent(items, component) {
-    return items.find(item => item.type === component)
+export function findComponent(items, type) {
+    return items.find(item => item.categoryName.includes(type))
 }
 
-export function maxComponent(items, component, max) {
-    return items.filter(item => item.type === component).length > max
+export function maxComponent(items, type, max) {
+    return items.filter(item => item.categoryName.includes(type)).length > max
 }

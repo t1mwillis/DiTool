@@ -8,7 +8,7 @@
             v-for="model in this.models"
             :key="model.name"
         >
-        {{model.name}}
+        {{model.modelNo}}
         </option>
     </select>
 </template>
