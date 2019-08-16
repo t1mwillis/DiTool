@@ -52,8 +52,10 @@ import { findComponent, maxComponent } from '../utils/index.js'
 export default {
     name : 'Error',
     props: {
-        items: Array,
-        required: true,
+        items: {
+            type: Array,
+            required: true,
+        },
         default: []
     },
     computed: {

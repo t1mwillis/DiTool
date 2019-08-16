@@ -35,7 +35,7 @@
 import Autocomplete from 'vuejs-auto-complete'
 import Row from './Row.vue'
 import Error from './Error.vue'
-import Categories from '../../components2.json'
+//import Categories from '../../components2.json'
 import ShimanoCategories from '../../shimano_components.json'
 
 export default {
