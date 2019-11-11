@@ -4,18 +4,26 @@
         <div class="autocomplete-wrap">
         <Autocomplete
             ref="autocomplete"
-            :source="this.data.categories"
+            :source="this.categories"
             placeholder="Search for a Di2 Part like 'Rear Derailleur' or 'Ultegra' or 'RD-6870-SS' "
             :results-display="formattedDisplay"
             @selected="addItem"
 
         ></Autocomplete>
         </div>
-        <div v-if='data.items.length > 0' class="components">
+        <div v-if='items.length > 0' class="components">
         
-        <h2>Current Components</h2>
+        <h2>
+            Selected Components
+            <button
+                @click="removeAll"
+            >
+                Reset
+            </button>
+        </h2>
+
         <ul>
-            <Row v-for="(item, index) in data.items" 
+            <Row v-for="(item, index) in items" 
                 :item="item"
                 :index="index"
                 :key="index"
@@ -24,7 +32,7 @@
         </ul>
         
         <Error 
-            :items='data.items'
+            :items='items'
         />
         
         </div>
@@ -35,19 +43,15 @@
 import Autocomplete from 'vuejs-auto-complete'
 import Row from './Row.vue'
 import Error from './Error.vue'
-//import Categories from '../../components2.json'
 import ShimanoCategories from '../../shimano_components.json'
 
 export default {
   name: 'Tool',
   data() {
-      return {
-          data: {
-              items: [
-              ],
-              categories: ShimanoCategories
-          }
-      }
+    return {
+        items: [],
+        categories: ShimanoCategories
+    }
   },
   components : {
       Row,
@@ -55,20 +59,23 @@ export default {
       Autocomplete
   },
   methods: {
-      handleClick() {
-        this.data.items.push({
-            type: 'Choose a Component',
-            model: 'Choose a Model'
-        });
-      },
-      remove(itemIndex) {
-        this.data.items.splice(itemIndex, 1);
-      },
-      formattedDisplay(result) {
-        return `${result.modelNo} - ${result.seriesName} - ${result.categoryName} `
+    handleClick() {
+    this.items.push({
+        type: 'Choose a Component',
+        model: 'Choose a Model'
+    });
+    },
+    remove(itemIndex) {
+    this.items.splice(itemIndex, 1);
+    },
+    removeAll() {
+        this.items = [];
+    },
+    formattedDisplay(result) {
+    return `${result.modelNo} - ${result.seriesName} - ${result.categoryName} `
     },
     addItem(item) {
-        this.data.items.push(item["selectedObject"]);
+        this.items.push(item["selectedObject"]);
         // access the autocopmlete component methods from the parent
         this.$refs.autocomplete.clear();
     }

@@ -1,22 +1,11 @@
 <template>
 <div class="error-wrap">
-<h3>Errors</h3>
-    <ul class="errors">
-        <li
-            v-show="!hasShifter"
-        >
-            You need at least one Shifter.
-        </li>
-        <li
-            v-show="!hasBattery"
-        >
-            You need one Battery.
-        </li>
-        <li
-            v-show="!hasJunctionA"
-        >
-            You need one Junction A Box.
-        </li>
+
+    <h3>Rules</h3>
+    <ul class="rules">
+        <li v-for="(rule, index) in filteredRules" 
+            :index="index"
+            :key="index">{{rule.message}}</li>
         <li
             v-show="maxShifters"
         >
@@ -43,14 +32,35 @@
             You can only have one Wireless Unit.
         </li>
     </ul>
+    <h3>Features</h3>
+    <ul>
+        <li
+            v-show="hasNewBattery"
+        >
+            Synchro shift will be supported by your system.
+        </li>
+        <li
+            v-show="hasNewWirelessUnit && hasNewBattery"
+        >
+            Your system will communicate with the E-Tube Mobile App.
+        </li>
+    </ul>
     </div>
 </template>
 
 <script>
-import { findComponent, maxComponent } from '../utils/index.js'
+import { maxComponent, find, findObj } from '../utils/index.js'
+import rules from '../../rules.json'
+// import features from '../../features.json'
 
 export default {
     name : 'Error',
+    data() {
+        return {
+            rules,
+            // features
+        }
+    },
     props: {
         items: {
             type: Array,
@@ -59,18 +69,6 @@ export default {
         default: []
     },
     computed: {
-        hasShifter() {
-            return findComponent(this.items, "Shifting");
-        },
-        hasBattery() {
-            return findComponent(this.items, "Battery");
-        },
-        hasJunctionA() {
-            return findComponent(this.items, "Junction-A");
-        },
-        hasBatteryMount() {
-            return findComponent(this.items, "Battery Mount");
-        },
         maxShifters() {
             return maxComponent(this.items, "Shifting", 6);
         },
@@ -88,13 +86,48 @@ export default {
         },
         maxWirelessUnit() {
             return maxComponent(this.items, "Wireless Unit", 1);
+        },
+        hasNewWirelessUnit() {
+            return find(this.items, "modelNo", "EW-WU101")
+                || find(this.items, "modelNo", "EW-WU111")
+        },
+        hasNewBattery() {
+            return find(this.items, "modelNo", "BT-DN110-A")
+                || find(this.items, "modelNo", "BM-DN110")
+        },
+        filteredRules(){
+            return rules.filter(rule => {
+                //items contains rule.contains
+                //items contains rule.required
+                //items does not contain rule.prohibit
+                const { contains, required, prohibited } = rule
+                const { items } = this
+
+                let isContained = true
+                let isRequired, isProhibited = false
+
+                if (contains) {
+                    isContained = findObj(contains, items).length > 0
+                }
+
+                if (required) {
+                    isRequired = findObj(required, items).length == 0
+                }
+
+                if (prohibited) {
+                    isProhibited = findObj(prohibited, items).length > 0
+                }
+
+                return isContained && ( isRequired || isProhibited )
+            })
         }
     }
 }
 </script>
 
 <style>
-ul.errors li:before{
+ul.errors li:before,
+ul.rules li:before{
     content: '🛑';
     display: inline-block
 }

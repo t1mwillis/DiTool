@@ -1,0 +1,36 @@
+{
+    "masterCategoryId": "cg3SHICShiftingSwitchDi2spec",
+    "categoryId": "cg4SHICShiftingSwitchDi2spec",
+    "categoryName": "Shifting Switch",
+    "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICShiftBrakeLever/cg4SHICShiftBrakeLeverRoadUrbanHydraulicDiscBrake/ST-RX815-R_C219_1.jpg/jcr:content/renditions/ST-RX815-R_C219_1_310_310.jpeg",
+    "seriesName": "GRX Di2",
+    "name": "Hydraulic Disc Brake Dual Control Lever  for Di2 (11-speed)",
+    "modelNo": "ST-RX815-R",
+    "prodLink": "/en-US/product/component/grx-di2/ST-RX815-R.html",
+    "ridingStyleName": "Road"
+},
+{
+    "masterCategoryId": "cg3SHICBrake",
+    "categoryId": "cg4SHICBrakeHydraulicDiscBrake",
+    "categoryName": "Brake (Hydraulic Disc Brake)",
+    "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBrake/cg4SHICBrakeHydraulicDiscBrake/P-BR-RS785_3112_1.jpg/jcr:content/renditions/P-BR-RS785_3112_1_310_310.jpeg",
+    "url": "/en-US/product/component/ultegra-6870-di2/BR-RS785.html",
+    "modelNo": "BR-RS785",
+    "seriesId": "ultegra_6870",
+    "seriesName": "Ultegra 6870 Series",
+    "name": "Hydraulic Disc Brake Caliper"
+},
+
+{
+    "masterCategoryId" : "",
+    "categoryId" : "",
+    "categoryName" : ["Shifting Switch, "],
+    "imageUrl" : "",
+    "seriesName" : "",
+    "seriesId" : "",
+    "name" : "",
+    "modelNo" : "",
+    "prodLink" : "",
+    "ridingStyleName" : ""
+
+}

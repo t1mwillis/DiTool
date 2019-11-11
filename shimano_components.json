@@ -1,58 +1,58 @@
 [
     {
-        "masterCategoryId": "cg3SHICShiftingSwitchDi2spec",
-        "categoryId": "cg4SHICShiftingSwitchDi2spec",
-        "categoryName": "Shifting Switch",
+        "masterCategoryId": "cg3SHICShiftBrakeLever",
+        "categoryId": "cg4SHICShiftBrakeLeverRoadUrbanHydraulicDiscBrake",
+        "categoryName": "Shifting/Brake Lever (For Drop Handlebar, Hydraulic Disc Brake)",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICShiftBrakeLever/cg4SHICShiftBrakeLeverRoadUrbanHydraulicDiscBrake/ST-RX815-R_C219_1.jpg/jcr:content/renditions/ST-RX815-R_C219_1_310_310.jpeg",
-        "seriesName": "GRX Di2",
-        "name": "Hydraulic Disc Brake Dual Control Lever  for Di2 (11-speed)",
+        "url": "/en-EU/product/component/grx-di2/ST-RX815-R.html",
         "modelNo": "ST-RX815-R",
-        "prodLink": "/en-US/product/component/grx-di2/ST-RX815-R.html",
-        "ridingStyleName": "Road"
+        "seriesId": "GRX_RX815",
+        "seriesName": "SHIMANO GRX DI2",
+        "name": "SHIMANO GRX DI2 Hydraulic Disc Brake DUAL CONTROL LEVER 11-speed"
     },
     {
-        "masterCategoryId": "cg3SHICShiftingSwitchDi2spec",
-        "categoryId": "cg4SHICShiftingSwitchDi2spec",
-        "categoryName": "Shifting Switch",
+        "masterCategoryId": "cg3SHICShiftBrakeLever",
+        "categoryId": "cg4SHICShiftBrakeLeverRoadUrbanHydraulicDiscBrake",
+        "categoryName": "Shifting/Brake Lever (For Drop Handlebar, Hydraulic Disc Brake)",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICShiftBrakeLever/cg4SHICShiftBrakeLeverRoadUrbanHydraulicDiscBrake/ST-RX815-L_C219_1.jpg/jcr:content/renditions/ST-RX815-L_C219_1_310_310.jpeg",
-        "seriesName": "GRX Di2",
-        "name": "Hydraulic Disc Brake Dual Control Lever  for Di2 (11-speed)",
+        "url": "/en-EU/product/component/grx-di2/ST-RX815-L.html",
         "modelNo": "ST-RX815-L",
-        "prodLink": "/en-US/product/component/grx-di2/ST-RX815-L.html",
-        "ridingStyleName": "Road"
-    },
-    {
-        "masterCategoryId": "cg3SHICRearDerailleur",
-        "categoryId": "cg4SHICRearDerailleurDi2spec",
-        "categoryName": "Rear Derailleur",
-        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICRearDerailleur/cg4SHICRearDerailleurDi2spec/RD-RX817_C219_1.jpg/jcr:content/renditions/RD-RX817_C219_1_310_310.jpeg",
-        "seriesName": "GRX Di2",
-        "name": "Shimano Shadow RD+ for Di2 (11-speed)",
-        "modelNo": "RD-RX817",
-        "prodLink": "/en-US/product/component/grx-di2/RD-RX817.html",
-        "ridingStyleName": "Road"
-    },
-    {
-        "masterCategoryId": "cg3SHICRearDerailleur",
-        "categoryId": "cg4SHICRearDerailleurDi2spec",
-        "categoryName": "Rear Derailleur",
-        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICRearDerailleur/cg4SHICRearDerailleurDi2spec/RD-RX815_C219_1.jpg/jcr:content/renditions/RD-RX815_C219_1_310_310.jpeg",
-        "seriesName": "GRX Di2",
-        "name": "Shimano Shadow RD+ for Di2 (11-speed)",
-        "modelNo": "RD-RX815",
-        "prodLink": "/en-US/product/component/grx-di2/RD-RX815.html",
-        "ridingStyleName": "Road"
+        "seriesId": "GRX_RX815",
+        "seriesName": "SHIMANO GRX DI2",
+        "name": "SHIMANO GRX DI2 Hydraulic Disc Brake DUAL CONTROL LEVER 2x11-speed"
     },
     {
         "masterCategoryId": "cg3SHICFrontDerailleur",
         "categoryId": "cg4SHICFrontDerailleur",
         "categoryName": "Front Derailleur",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICFrontDerailleur/cg4SHICFrontDerailleurDi2spec/FD-RX815-F_C219_1.jpg/jcr:content/renditions/FD-RX815-F_C219_1_310_310.jpeg",
-        "seriesName": "GRX Di2",
-        "name": "Front Derailleur for Di2 (11-speed)",
+        "url": "/en-EU/product/component/grx-di2/FD-RX815-F.html",
         "modelNo": "FD-RX815-F",
-        "prodLink": "/en-US/product/component/grx-di2/FD-RX815-F.html",
-        "ridingStyleName": "Road"
+        "seriesId": "GRX_RX815",
+        "seriesName": "SHIMANO GRX DI2",
+        "name": "SHIMANO GRX DI2 Front Derailleur 2x11-speed"
+    },
+    {
+        "masterCategoryId": "cg3SHICRearDerailleur",
+        "categoryId": "cg4SHICRearDerailleurDi2spec",
+        "categoryName": "Rear Derailleur (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICRearDerailleur/cg4SHICRearDerailleurDi2spec/RD-RX817_C219_1.jpg/jcr:content/renditions/RD-RX817_C219_1_310_310.jpeg",
+        "url": "/en-EU/product/component/grx-di2/RD-RX817.html",
+        "modelNo": "RD-RX817",
+        "seriesId": "GRX_RX815",
+        "seriesName": "SHIMANO GRX DI2",
+        "name": "SHIMANO GRX DI2 Rear Derailleur 11-speed (42T max low sprocket)"
+    },
+    {
+        "masterCategoryId": "cg3SHICRearDerailleur",
+        "categoryId": "cg4SHICRearDerailleurDi2spec",
+        "categoryName": "Rear Derailleur (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICRearDerailleur/cg4SHICRearDerailleurDi2spec/RD-RX815_C219_1.jpg/jcr:content/renditions/RD-RX815_C219_1_310_310.jpeg",
+        "url": "/en-EU/product/component/grx-di2/RD-RX815.html",
+        "modelNo": "RD-RX815",
+        "seriesId": "GRX_RX815",
+        "seriesName": "SHIMANO GRX DI2",
+        "name": "SHIMANO GRX DI2 Rear Derailleur 11-speed (34T max low sprocket)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -132,6 +132,17 @@
         "name": "Hydraulic Disc Brake Caliper"
     },
     {
+        "masterCategoryId": "cg3SHICBattery",
+        "categoryId": "cg4SHICBatteryDi2spec",
+        "categoryName": "Battery",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBattery/cg4SHICBatteryDi2spec/P-SM-BTR2_2013products0366.jpg/jcr:content/renditions/P-SM-BTR2_2013products0366_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-6870-di2/SM-BTR2.html",
+        "modelNo": "SM-BTR2",
+        "seriesId": "ultegra_6870",
+        "seriesName": "Ultegra 6870 Series",
+        "name": "Internal Battery"
+    },
+    {
         "masterCategoryId": "cg3SHICBatteryMount",
         "categoryId": "cg4SHICBatteryMountDi2spec",
         "categoryName": "Battery Mount",
@@ -140,7 +151,7 @@
         "modelNo": "SM-BMR2-L",
         "seriesId": "ultegra_6870",
         "seriesName": "Ultegra 6870 Series",
-        "name": "SM-BMR2-L"
+        "name": "Long Size External Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
@@ -151,7 +162,7 @@
         "modelNo": "SM-BMR2-I",
         "seriesId": "ultegra_6870",
         "seriesName": "Ultegra 6870 Series",
-        "name": "SM-BMR2-I"
+        "name": "Intermediate Size External Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
@@ -161,7 +172,7 @@
         "modelNo": "SM-BMR1",
         "seriesId": "ultegra_6870",
         "seriesName": "Ultegra 6870 Series",
-        "name": "SM-BMR1"
+        "name": "Small Size External Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICPCLinkageDevice",
@@ -238,7 +249,7 @@
         "modelNo": "SM-BTR1",
         "seriesId": "duraace_9070",
         "seriesName": "Dura-Ace 9070 Series",
-        "name": "Battery"
+        "name": "External Battery"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
@@ -249,7 +260,7 @@
         "modelNo": "SM-BMR2-L",
         "seriesId": "duraace_9070",
         "seriesName": "Dura-Ace 9070 Series",
-        "name": "SM-BMR2-L"
+        "name": "Long Size External Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
@@ -260,7 +271,7 @@
         "modelNo": "SM-BMR2-I",
         "seriesId": "duraace_9070",
         "seriesName": "Dura-Ace 9070 Series",
-        "name": "SM-BMR2-I"
+        "name": "Intermediate Size External Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
@@ -270,7 +281,7 @@
         "modelNo": "SM-BMR1",
         "seriesId": "duraace_9070",
         "seriesName": "Dura-Ace 9070 Series",
-        "name": "SM-BMR1"
+        "name": "Small Size External Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICPCLinkageDevice",
@@ -482,17 +493,6 @@
         "name": "Shimano Shadow RD (11-speed)"
     },
     {
-        "masterCategoryId": "cg3SHICBrakeCable",
-        "categoryId": "cg4SHICBrakeCable",
-        "categoryName": "Brake Cable",
-        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBrakeCable/cg4SHICBrakeCable/P-BC-R680_BC14Nd0523.jpg/jcr:content/renditions/P-BC-R680_BC14Nd0523_310_310.jpeg",
-        "url": "/en-US/product/component/ultegra-r8050-di2/BC-R680.html",
-        "modelNo": "BC-R680",
-        "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
-        "name": "BRAKE CABLE"
-    },
-    {
         "masterCategoryId": "cg3SHICBattery",
         "categoryId": "cg4SHICBatteryDi2spec",
         "categoryName": "Battery",
@@ -501,7 +501,7 @@
         "modelNo": "BT-DN110-A",
         "seriesId": "ultegra_r8050",
         "seriesName": "Ultegra R8050 Series",
-        "name": "Built-in Type Battery"
+        "name": "Internal Battery"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
@@ -512,7 +512,7 @@
         "modelNo": "BM-DN100-S",
         "seriesId": "ultegra_r8050",
         "seriesName": "Ultegra R8050 Series",
-        "name": "Battery Mount"
+        "name": "Small Size External Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
@@ -523,7 +523,7 @@
         "modelNo": "BM-DN100-L",
         "seriesId": "ultegra_r8050",
         "seriesName": "Ultegra R8050 Series",
-        "name": "Battery Mount"
+        "name": "Long Size External Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
@@ -534,73 +534,172 @@
         "modelNo": "BM-DN100-I",
         "seriesId": "ultegra_r8050",
         "seriesName": "Ultegra R8050 Series",
-        "name": "Long Size Battery Mount"
+        "name": "Intermediate Size External Battery Mount"
+    },
+    {
+        "masterCategoryId": "cg3SHICBatteryMount",
+        "categoryId": "cg4SHICBatteryMountDi2spec",
+        "categoryName": "Battery Mount (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryMount/cg4SHICBatteryMountDi2spec/P-BM-DN100-S_13974_1.jpg/jcr:content/renditions/P-BM-DN100-S_13974_1_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/BM-DN100-S.html",
+        "modelNo": "BM-DN100-S",
+        "seriesId": "ultegra_r8050",
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Internal /External Wire Routing Short Size Battery Mount"
+    },
+    {
+        "masterCategoryId": "cg3SHICBatteryMount",
+        "categoryId": "cg4SHICBatteryMountDi2spec",
+        "categoryName": "Battery Mount (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryMount/cg4SHICBatteryMountDi2spec/P-BM-DN100-L_13973_1.jpg/jcr:content/renditions/P-BM-DN100-L_13973_1_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/BM-DN100-L.html",
+        "modelNo": "BM-DN100-L",
+        "seriesId": "ultegra_r8050",
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO External Wire Routing Long Size Battery Mount"
+    },
+    {
+        "masterCategoryId": "cg3SHICBatteryMount",
+        "categoryId": "cg4SHICBatteryMountDi2spec",
+        "categoryName": "Battery Mount (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryMount/cg4SHICBatteryMountDi2spec/P-BM-DN100-I_13972_1.jpg/jcr:content/renditions/P-BM-DN100-I_13972_1_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/BM-DN100-I.html",
+        "modelNo": "BM-DN100-I",
+        "seriesId": "ultegra_r8050",
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Internal Wire Routing Long Size Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable",
+        "categoryName": "Battery Cable (DI2 spec.)",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-9_13513_1.jpg/jcr:content/renditions/P-SM-BCC1-9_13513_1_310_310.jpeg",
-        "url": "/en-US/product/component/ultegra-r8050-di2/SM-BCC1-9.html",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-9.html",
         "modelNo": "SM-BCC1-9",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
-        "name": "Charger Cord"
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for South Africa"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable",
+        "categoryName": "Battery Cable (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-8_13512_1.jpg/jcr:content/renditions/P-SM-BCC1-8_13512_1_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-8.html",
+        "modelNo": "SM-BCC1-8",
+        "seriesId": "ultegra_r8050",
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for Taiwan"
+    },
+    {
+        "masterCategoryId": "cg3SHICBatteryCableDi2spec",
+        "categoryId": "cg4SHICBatteryCableDi2spec",
+        "categoryName": "Battery Cable (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-7_13511_1.jpg/jcr:content/renditions/P-SM-BCC1-7_13511_1_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-7.html",
+        "modelNo": "SM-BCC1-7",
+        "seriesId": "ultegra_r8050",
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for Korea"
+    },
+    {
+        "masterCategoryId": "cg3SHICBatteryCableDi2spec",
+        "categoryId": "cg4SHICBatteryCableDi2spec",
+        "categoryName": "Battery Cable (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-6_13510_1.jpg/jcr:content/renditions/P-SM-BCC1-6_13510_1_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-6.html",
+        "modelNo": "SM-BCC1-6",
+        "seriesId": "ultegra_r8050",
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for U.K."
+    },
+    {
+        "masterCategoryId": "cg3SHICBatteryCableDi2spec",
+        "categoryId": "cg4SHICBatteryCableDi2spec",
+        "categoryName": "Battery Cable (DI2 spec.)",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-5_13509_1.jpg/jcr:content/renditions/P-SM-BCC1-5_13509_1_310_310.jpeg",
-        "url": "/en-US/product/component/ultegra-r8050-di2/SM-BCC1-5.html",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-5.html",
         "modelNo": "SM-BCC1-5",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
-        "name": "Charger Cord"
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for China"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable",
+        "categoryName": "Battery Cable (DI2 spec.)",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-4_13508_1.jpg/jcr:content/renditions/P-SM-BCC1-4_13508_1_310_310.jpeg",
-        "url": "/en-US/product/component/ultegra-r8050-di2/SM-BCC1-4.html",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-4.html",
         "modelNo": "SM-BCC1-4",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
-        "name": "Charger Cord"
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for Australia/New Zealand"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable",
+        "categoryName": "Battery Cable (DI2 spec.)",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-3_13507_1.jpg/jcr:content/renditions/P-SM-BCC1-3_13507_1_310_310.jpeg",
-        "url": "/en-US/product/component/ultegra-r8050-di2/SM-BCC1-3.html",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-3.html",
         "modelNo": "SM-BCC1-3",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
-        "name": "Charger Cord"
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for Japan"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable",
+        "categoryName": "Battery Cable (DI2 spec.)",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-2_13506_1.jpg/jcr:content/renditions/P-SM-BCC1-2_13506_1_310_310.jpeg",
-        "url": "/en-US/product/component/ultegra-r8050-di2/SM-BCC1-2.html",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-2.html",
         "modelNo": "SM-BCC1-2",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
-        "name": "Charger Cord"
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for USA/Canada"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable",
+        "categoryName": "Battery Cable (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-12_13516_1.jpg/jcr:content/renditions/P-SM-BCC1-12_13516_1_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-12.html",
+        "modelNo": "SM-BCC1-12",
+        "seriesId": "ultegra_r8050",
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for Brazil"
+    },
+    {
+        "masterCategoryId": "cg3SHICBatteryCableDi2spec",
+        "categoryId": "cg4SHICBatteryCableDi2spec",
+        "categoryName": "Battery Cable (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-11_13515_1.jpg/jcr:content/renditions/P-SM-BCC1-11_13515_1_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-11.html",
+        "modelNo": "SM-BCC1-11",
+        "seriesId": "ultegra_r8050",
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for Israel"
+    },
+    {
+        "masterCategoryId": "cg3SHICBatteryCableDi2spec",
+        "categoryId": "cg4SHICBatteryCableDi2spec",
+        "categoryName": "Battery Cable (DI2 spec.)",
+        "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-10_13514_1.jpg/jcr:content/renditions/P-SM-BCC1-10_13514_1_310_310.jpeg",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-10.html",
+        "modelNo": "SM-BCC1-10",
+        "seriesId": "ultegra_r8050",
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for Argentina"
+    },
+    {
+        "masterCategoryId": "cg3SHICBatteryCableDi2spec",
+        "categoryId": "cg4SHICBatteryCableDi2spec",
+        "categoryName": "Battery Cable (DI2 spec.)",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-1_13505_1.jpg/jcr:content/renditions/P-SM-BCC1-1_13505_1_310_310.jpeg",
-        "url": "/en-US/product/component/ultegra-r8050-di2/SM-BCC1-1.html",
+        "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-1.html",
         "modelNo": "SM-BCC1-1",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
-        "name": "Charger Cord"
+        "seriesName": "SHIMANO ULTEGRA R8050 Series",
+        "name": "SHIMANO Battery Charger Cord for Europe"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCharger",

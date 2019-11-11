@@ -1,0 +1,113 @@
+[
+    {
+        "required" : {
+            "categoryName" : ["Shifting"]
+        },
+        "message" : "You must have at least one shifter."
+    },
+    {
+        "required" : {
+            "categoryName" : ["Battery"]
+        },
+        "message" : "You must have at least one battery."
+    },
+    {
+        "required" : {
+            "categoryName" : ["Junction-A"]
+        },
+        "message" : "You must have at least one Junction-A."
+    },
+    {  
+        "contains" : {
+            "name" : ["External Battery"]
+        },
+        "required" : {
+            "categoryName" : ["Battery Mount"]
+        },
+        "message" : "An external battery requires a battery mount."
+    },
+    {
+        "contains" : {
+            "modelNo" :["SM-EW67-A-E"]
+        },
+        "required" : {
+            "modelNo" : ["SM-BTR1"]
+        },
+        "message" : "The SM-EW67-A-E requires an external battery."
+    },
+    {
+        "contains" : {
+            "modelNo" : ["RD-RX817"]
+        },
+        "prohibited" : {
+            "categoryName" : ["Front Derailleur"]
+        },
+        "message" : "The RX-817 Rear Derailleur cannot be used with a front derailleur. Either swap it for for the RX-815 or remove your front derailleur."
+    },
+    {
+        "contains" : {
+            "modelNo" : ["SW-R610"]
+        },
+        "required" : {
+            "modelNo" : [
+                "ST-6871",
+                "ST-9070",
+                "ST-R8050",
+                "ST-R9150"
+            ]
+        },
+        "message" : "Sprint shifters require either ST-6870, ST-9070, ST-R8050 or ST-R9150."
+    },
+    {
+        "contains" : {
+            "modelNo" : [
+                "EW-WU101",
+                "EW-WU111"
+            ]
+        },
+        "required" : {
+            "modelNo" : [
+                "BT-DN110-A",
+                "BM-DN110"
+            ]
+        },
+        "message" : "Newer wireless units require newer batteries."
+    },
+    {
+        "contains" : {
+            "modelNo" : [
+                "FD-6770"
+            ]
+        },
+        "prohibited" : {
+            "modelNo" : [
+                "RD-RX817",
+                "RD-RX815",
+                "RD-6870",
+                "RD-9070",
+                "RD-RX805",
+                "RD-R8050",
+                "RD-R9150"
+            ]
+        },
+        "message" : "You cannot use a ten speed front derailleur with an eleven speed rear derailleur."
+    },
+    {
+        "contains" : {
+            "modelNo" : [
+                "RD-6770"
+            ]
+        },
+        "prohibited" : {
+            "modelNo" : [
+                "FD-RX815",
+                "FD-6870",
+                "FD-9070",
+                "FD-RX805",
+                "FD-R8050",
+                "FD-R9150"
+            ]
+        },
+        "message" : "You cannot use a ten speed rear derailleur with an eleven speed front derailleur."
+    }
+]
