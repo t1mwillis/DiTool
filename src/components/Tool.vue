@@ -4,7 +4,7 @@
         <div class="autocomplete-wrap">
         <Autocomplete
             ref="autocomplete"
-            :source="this.categories"
+            :source="this.components"
             placeholder="Search for a Di2 Part like 'Rear Derailleur' or 'Ultegra' or 'RD-6870-SS' "
             :results-display="formattedDisplay"
             @selected="addItem"
@@ -43,14 +43,14 @@
 import Autocomplete from 'vuejs-auto-complete'
 import Row from './Row.vue'
 import Error from './Error.vue'
-import ShimanoCategories from '../../shimano_components.json'
+import components from '../../shimano_components.json'
 
 export default {
   name: 'Tool',
   data() {
     return {
         items: [],
-        categories: ShimanoCategories
+        components
     }
   },
   components : {
