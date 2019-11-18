@@ -1,11 +1,11 @@
 <template>
     <div>
-        <h1>Di2 Components</h1>
+        <h1>Di2 Compatibility Checker</h1>
         <div class="autocomplete-wrap">
         <Autocomplete
             ref="autocomplete"
             :source="this.components"
-            placeholder="Search for a Di2 Part like 'Rear Derailleur' or 'Ultegra' or 'RD-6870-SS' "
+            placeholder="Search for a component..."
             :results-display="formattedDisplay"
             @selected="addItem"
 
@@ -18,7 +18,7 @@
             <button
                 @click="removeAll"
             >
-                Reset
+                Reset 🔁
             </button>
         </h2>
 
@@ -34,6 +34,10 @@
         <Error 
             :items='items'
         />
+
+        <Feature 
+            :items='items'
+        />
         
         </div>
     </div>
@@ -43,6 +47,7 @@
 import Autocomplete from 'vuejs-auto-complete'
 import Row from './Row.vue'
 import Error from './Error.vue'
+import Feature from './Feature.vue'
 import components from '../../shimano_components.json'
 
 export default {
@@ -56,7 +61,8 @@ export default {
   components : {
       Row,
       Error,
-      Autocomplete
+      Autocomplete,
+      Feature
   },
   methods: {
     handleClick() {
@@ -72,7 +78,7 @@ export default {
         this.items = [];
     },
     formattedDisplay(result) {
-    return `${result.modelNo} - ${result.seriesName} - ${result.categoryName} `
+    return `${result.seriesName} - ${result.modelNo}<br> <em>${result.categoryName}</em>`
     },
     addItem(item) {
         this.items.push(item["selectedObject"]);
@@ -88,6 +94,18 @@ export default {
 .autocomplete-wrap, .components {
     width: 50%;
     margin: auto;
+}
+
+@media screen and (max-width: 968px) {
+    .autocomplete-wrap, .components {
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .autocomplete-wrap, .components {
+        width: 90%;
+    }
 }
 
 h2, h3, h4, h5, h6 {

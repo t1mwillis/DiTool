@@ -1,57 +1,49 @@
 <template>
-<div class="error-wrap">
-
-    <h3>Rules</h3>
-    <ul class="rules">
-        <li v-for="(rule, index) in filteredRules" 
-            :index="index"
-            :key="index">{{rule.message}}</li>
-        <li
-            v-show="maxShifters"
+    <div class="error-wrap">
+        <h3>Rules</h3>
+        <ul class="rules"
+            v-show="filteredRules.length > 0"
         >
-            You have too many Shifters, maximum is 6.
-        </li>
-        <li
-            v-show="maxBattery"
-        >
-            You can only have one Battery.
-        </li>
-        <li
-            v-show="maxRd"
-        >
-            You can only have one Rear Derailleur.
-        </li>
-        <li
-            v-show="maxFd"
-        >
-            You can only have one Front Derailleur.
-        </li>
-        <li
-            v-show="maxWirelessUnit"
-        >
-            You can only have one Wireless Unit.
-        </li>
-    </ul>
-    <h3>Features</h3>
-    <ul>
-        <li
-            v-show="hasNewBattery"
-        >
-            Synchro shift will be supported by your system.
-        </li>
-        <li
-            v-show="hasNewWirelessUnit && hasNewBattery"
-        >
-            Your system will communicate with the E-Tube Mobile App.
-        </li>
-    </ul>
+            <li class="rule"
+                v-for="(rule, index) in filteredRules" 
+                :index="index"
+                :key="index">{{rule.message}}</li>
+            <li
+                v-show="maxShifters"
+            >
+                You have too many Shifters, maximum is 6.
+            </li>
+            <li
+                v-show="maxBattery"
+            >
+                You can only have one Battery.
+            </li>
+            <li
+                v-show="maxRd"
+            >
+                You can only have one Rear Derailleur.
+            </li>
+            <li
+                v-show="maxFd"
+            >
+                You can only have one Front Derailleur.
+            </li>
+            <li
+                v-show="maxWirelessUnit"
+            >
+                You can only have one Wireless Unit.
+            </li>
+        </ul>
+        <h4 class="success"
+            v-show="filteredRules.length === 0">
+            🥳 Congrats! Your system will work.
+        </h4>
     </div>
 </template>
 
 <script>
 import { maxComponent, find, findObj } from '../utils/index.js'
 import rules from '../../rules.json'
-// import features from '../../features.json'
 
 export default {
     name : 'Error',
@@ -87,14 +79,6 @@ export default {
         maxWirelessUnit() {
             return maxComponent(this.items, "Wireless Unit", 1);
         },
-        hasNewWirelessUnit() {
-            return find(this.items, "modelNo", "EW-WU101")
-                || find(this.items, "modelNo", "EW-WU111")
-        },
-        hasNewBattery() {
-            return find(this.items, "modelNo", "BT-DN110-A")
-                || find(this.items, "modelNo", "BM-DN110")
-        },
         filteredRules(){
             return rules.filter(rule => {
                 //items contains rule.contains
@@ -125,10 +109,27 @@ export default {
 }
 </script>
 
-<style>
-ul.errors li:before,
-ul.rules li:before{
-    content: '🛑';
-    display: inline-block
+<style lang="scss">
+li {
+    padding: 0.5em;
+    margin-bottom: .25em;
+    border-radius: 5px;
+
+    &.rule {
+        background-color: rgba(255, 0, 0, 0.2); 
+        border: 2px solid red;   
+    }
+
+    &.feature {
+        background-color: rgba(0,255,0, 0.2);
+        border: 2px solid green;
+    }
+}
+
+.success {
+    background-color: rgba(0,255,0, 0.2);
+    border: 2px solid green;
+    padding: 0.5em;
+    border-radius: 5px;
 }
 </style>

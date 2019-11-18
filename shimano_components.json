@@ -7,8 +7,8 @@
         "url": "/en-EU/product/component/grx-di2/ST-RX815-R.html",
         "modelNo": "ST-RX815-R",
         "seriesId": "GRX_RX815",
-        "seriesName": "SHIMANO GRX DI2",
-        "name": "SHIMANO GRX DI2 Hydraulic Disc Brake DUAL CONTROL LEVER 11-speed"
+        "seriesName": "GRX",
+        "name": "GRX Hydraulic Disc Brake Dual Control Lever 11-speed"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -18,8 +18,8 @@
         "url": "/en-EU/product/component/grx-di2/ST-RX815-L.html",
         "modelNo": "ST-RX815-L",
         "seriesId": "GRX_RX815",
-        "seriesName": "SHIMANO GRX DI2",
-        "name": "SHIMANO GRX DI2 Hydraulic Disc Brake DUAL CONTROL LEVER 2x11-speed"
+        "seriesName": "GRX",
+        "name": "GRX Hydraulic Disc Brake Dual Control Lever 2x11-speed"
     },
     {
         "masterCategoryId": "cg3SHICFrontDerailleur",
@@ -29,30 +29,30 @@
         "url": "/en-EU/product/component/grx-di2/FD-RX815-F.html",
         "modelNo": "FD-RX815-F",
         "seriesId": "GRX_RX815",
-        "seriesName": "SHIMANO GRX DI2",
-        "name": "SHIMANO GRX DI2 Front Derailleur 2x11-speed"
+        "seriesName": "GRX",
+        "name": "GRX Front Derailleur 2x11-speed"
     },
     {
         "masterCategoryId": "cg3SHICRearDerailleur",
         "categoryId": "cg4SHICRearDerailleurDi2spec",
-        "categoryName": "Rear Derailleur (DI2 spec.)",
+        "categoryName": "Rear Derailleur",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICRearDerailleur/cg4SHICRearDerailleurDi2spec/RD-RX817_C219_1.jpg/jcr:content/renditions/RD-RX817_C219_1_310_310.jpeg",
         "url": "/en-EU/product/component/grx-di2/RD-RX817.html",
         "modelNo": "RD-RX817",
         "seriesId": "GRX_RX815",
-        "seriesName": "SHIMANO GRX DI2",
-        "name": "SHIMANO GRX DI2 Rear Derailleur 11-speed (42T max low sprocket)"
+        "seriesName": "GRX",
+        "name": "GRX Rear Derailleur 11-speed (42T max low sprocket)"
     },
     {
         "masterCategoryId": "cg3SHICRearDerailleur",
         "categoryId": "cg4SHICRearDerailleurDi2spec",
-        "categoryName": "Rear Derailleur (DI2 spec.)",
+        "categoryName": "Rear Derailleur",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICRearDerailleur/cg4SHICRearDerailleurDi2spec/RD-RX815_C219_1.jpg/jcr:content/renditions/RD-RX815_C219_1_310_310.jpeg",
         "url": "/en-EU/product/component/grx-di2/RD-RX815.html",
         "modelNo": "RD-RX815",
         "seriesId": "GRX_RX815",
-        "seriesName": "SHIMANO GRX DI2",
-        "name": "SHIMANO GRX DI2 Rear Derailleur 11-speed (34T max low sprocket)"
+        "seriesName": "GRX",
+        "name": "GRX Rear Derailleur 11-speed (34T max low sprocket)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -62,7 +62,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/ST-6871.html",
         "modelNo": "ST-6871",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "ST-6871"
     },
     {
@@ -73,7 +73,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/SW-R610.html",
         "modelNo": "SW-R610",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "Remote Sprinter Shifter"
     },
     {
@@ -84,7 +84,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/FD-6870-F.html",
         "modelNo": "FD-6870-F",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "FD-6870-F"
     },
     {
@@ -95,7 +95,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/RD-6870-SS.html",
         "modelNo": "RD-6870-SS",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "Rear Derailleur (11-speed)"
     },
     {
@@ -106,7 +106,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/RD-6870-GS.html",
         "modelNo": "RD-6870-GS",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "Rear Derailleur (11-speed)"
     },
     {
@@ -117,7 +117,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/BR-RS785.html",
         "modelNo": "BR-RS785",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "Hydraulic Disc Brake Caliper"
     },
     {
@@ -128,7 +128,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/BR-R785.html",
         "modelNo": "BR-R785",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "Hydraulic Disc Brake Caliper"
     },
     {
@@ -139,7 +139,7 @@
         "url": "/en-EU/product/component/ultegra-6870-di2/SM-BTR2.html",
         "modelNo": "SM-BTR2",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "Internal Battery"
     },
     {
@@ -150,7 +150,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/SM-BMR2-L.html",
         "modelNo": "SM-BMR2-L",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "Long Size External Battery Mount"
     },
     {
@@ -161,7 +161,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/SM-BMR2-I.html",
         "modelNo": "SM-BMR2-I",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "Intermediate Size External Battery Mount"
     },
     {
@@ -171,7 +171,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/SM-BMR1.html",
         "modelNo": "SM-BMR1",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "Small Size External Battery Mount"
     },
     {
@@ -182,7 +182,7 @@
         "url": "/en-US/product/component/ultegra-6870-di2/SM-PCE1.html",
         "modelNo": "SM-PCE1",
         "seriesId": "ultegra_6870",
-        "seriesName": "Ultegra 6870 Series",
+        "seriesName": "Ultegra 6870",
         "name": "PC Linkage Device"
     },
     {
@@ -193,7 +193,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/ST-9070.html",
         "modelNo": "ST-9070",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "ST-9070"
     },
     {
@@ -204,7 +204,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SW-R610.html",
         "modelNo": "SW-R610",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "Remote Sprinter Shifter"
     },
     {
@@ -215,7 +215,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SW-9071.html",
         "modelNo": "SW-9071",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "SW-9071"
     },
     {
@@ -226,7 +226,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/FD-9070-F.html",
         "modelNo": "FD-9070-F",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "FD-9070-F"
     },
     {
@@ -237,7 +237,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/RD-9070-SS.html",
         "modelNo": "RD-9070-SS",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "RD-9070-SS"
     },
     {
@@ -248,7 +248,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SM-BTR1.html",
         "modelNo": "SM-BTR1",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "External Battery"
     },
     {
@@ -259,7 +259,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SM-BMR2-L.html",
         "modelNo": "SM-BMR2-L",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "Long Size External Battery Mount"
     },
     {
@@ -270,7 +270,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SM-BMR2-I.html",
         "modelNo": "SM-BMR2-I",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "Intermediate Size External Battery Mount"
     },
     {
@@ -280,7 +280,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SM-BMR1.html",
         "modelNo": "SM-BMR1",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "Small Size External Battery Mount"
     },
     {
@@ -291,7 +291,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SM-PCE1.html",
         "modelNo": "SM-PCE1",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "PC Linkage Device"
     },
     {
@@ -302,7 +302,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SM-JC41.html",
         "modelNo": "SM-JC41",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "Junction B (4 Port)"
     },
     {
@@ -313,7 +313,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SM-JC40.html",
         "modelNo": "SM-JC40",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "Junction B (4 Port)"
     },
     {
@@ -324,7 +324,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SM-EW90-B.html",
         "modelNo": "SM-EW90-B",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "Junction for Around Cockpit Area"
     },
     {
@@ -335,7 +335,7 @@
         "url": "/en-US/product/component/duraace-9070-di2/SM-EW90-A.html",
         "modelNo": "SM-EW90-A",
         "seriesId": "duraace_9070",
-        "seriesName": "Dura-Ace 9070 Series",
+        "seriesName": "Dura-Ace 9070",
         "name": "Junction for Around Cockpit Area"
     },
     {
@@ -347,7 +347,7 @@
         "modelNo": "RD-RX805-GS",
         "seriesId": "ultegrarx_rx800",
         "seriesName": "Ultegra RX800",
-        "name": "Shimano Shadow RD+ (2x11-speed)"
+        "name": "Shadow RD+ (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICRearDerailleur",
@@ -358,7 +358,7 @@
         "modelNo": "RD-RX800-GS",
         "seriesId": "ultegrarx_rx800",
         "seriesName": "Ultegra RX800",
-        "name": "Shimano Shadow RD+ (2x11-speed)"
+        "name": "Shadow RD+ (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -368,7 +368,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/ST-R8070-R.html",
         "modelNo": "ST-R8070-R",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Dual Control Lever (2x11-speed)"
     },
     {
@@ -379,7 +379,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/ST-R8070-L.html",
         "modelNo": "ST-R8070-L",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Dual Control Lever (2x11-speed)"
     },
     {
@@ -390,7 +390,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/ST-R8060-R.html",
         "modelNo": "ST-R8060-R",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "TT/Triathlon Dual Control Lever (2x11-speed)"
     },
     {
@@ -401,7 +401,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/ST-R8060-L.html",
         "modelNo": "ST-R8060-L",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "TT/Triathlon Dual Control Lever (2x11-speed)"
     },
     {
@@ -412,7 +412,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/ST-R8050-R.html",
         "modelNo": "ST-R8050-R",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Dual Control Lever (2x11-speed)"
     },
     {
@@ -423,7 +423,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/ST-R8050-L.html",
         "modelNo": "ST-R8050-L",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Dual Control Lever (2x11-speed)"
     },
     {
@@ -434,7 +434,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SW-R9150.html",
         "modelNo": "SW-R9150",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Remote Satellite Shifter  (Climbing Shifter)"
     },
     {
@@ -445,7 +445,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/FD-R8050.html",
         "modelNo": "FD-R8050",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Front Derailleur (2x11-speed)"
     },
     {
@@ -456,7 +456,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-AD91-MS.html",
         "modelNo": "SM-AD91-MS",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Band Adapter"
     },
     {
@@ -467,7 +467,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-AD91-L.html",
         "modelNo": "SM-AD91-L",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Band Adapter"
     },
     {
@@ -478,8 +478,8 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/RD-R8050-SS.html",
         "modelNo": "RD-R8050-SS",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
-        "name": "Shimano Shadow RD (11-speed)"
+        "seriesName": "Ultegra R8050",
+        "name": "Shadow RD (11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICRearDerailleur",
@@ -489,8 +489,8 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/RD-R8050-GS.html",
         "modelNo": "RD-R8050-GS",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
-        "name": "Shimano Shadow RD (11-speed)"
+        "seriesName": "Ultegra R8050",
+        "name": "Shadow RD (11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICBattery",
@@ -500,7 +500,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/BT-DN110-A.html",
         "modelNo": "BT-DN110-A",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Internal Battery"
     },
     {
@@ -511,7 +511,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/BM-DN100-S.html",
         "modelNo": "BM-DN100-S",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Small Size External Battery Mount"
     },
     {
@@ -522,7 +522,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/BM-DN100-L.html",
         "modelNo": "BM-DN100-L",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Long Size External Battery Mount"
     },
     {
@@ -533,173 +533,173 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/BM-DN100-I.html",
         "modelNo": "BM-DN100-I",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Intermediate Size External Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
         "categoryId": "cg4SHICBatteryMountDi2spec",
-        "categoryName": "Battery Mount (DI2 spec.)",
+        "categoryName": "Battery Mount",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryMount/cg4SHICBatteryMountDi2spec/P-BM-DN100-S_13974_1.jpg/jcr:content/renditions/P-BM-DN100-S_13974_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/BM-DN100-S.html",
         "modelNo": "BM-DN100-S",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Internal /External Wire Routing Short Size Battery Mount"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Internal /External Wire Routing Short Size Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
         "categoryId": "cg4SHICBatteryMountDi2spec",
-        "categoryName": "Battery Mount (DI2 spec.)",
+        "categoryName": "Battery Mount",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryMount/cg4SHICBatteryMountDi2spec/P-BM-DN100-L_13973_1.jpg/jcr:content/renditions/P-BM-DN100-L_13973_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/BM-DN100-L.html",
         "modelNo": "BM-DN100-L",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO External Wire Routing Long Size Battery Mount"
+        "seriesName": "ULTEGRA R8050",
+        "name": "External Wire Routing Long Size Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryMount",
         "categoryId": "cg4SHICBatteryMountDi2spec",
-        "categoryName": "Battery Mount (DI2 spec.)",
+        "categoryName": "Battery Mount",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryMount/cg4SHICBatteryMountDi2spec/P-BM-DN100-I_13972_1.jpg/jcr:content/renditions/P-BM-DN100-I_13972_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/BM-DN100-I.html",
         "modelNo": "BM-DN100-I",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Internal Wire Routing Long Size Battery Mount"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Internal Wire Routing Long Size Battery Mount"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-9_13513_1.jpg/jcr:content/renditions/P-SM-BCC1-9_13513_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-9.html",
         "modelNo": "SM-BCC1-9",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for South Africa"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for South Africa"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-8_13512_1.jpg/jcr:content/renditions/P-SM-BCC1-8_13512_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-8.html",
         "modelNo": "SM-BCC1-8",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for Taiwan"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for Taiwan"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-7_13511_1.jpg/jcr:content/renditions/P-SM-BCC1-7_13511_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-7.html",
         "modelNo": "SM-BCC1-7",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for Korea"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for Korea"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-6_13510_1.jpg/jcr:content/renditions/P-SM-BCC1-6_13510_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-6.html",
         "modelNo": "SM-BCC1-6",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for U.K."
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for U.K."
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-5_13509_1.jpg/jcr:content/renditions/P-SM-BCC1-5_13509_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-5.html",
         "modelNo": "SM-BCC1-5",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for China"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for China"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-4_13508_1.jpg/jcr:content/renditions/P-SM-BCC1-4_13508_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-4.html",
         "modelNo": "SM-BCC1-4",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for Australia/New Zealand"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for Australia/New Zealand"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-3_13507_1.jpg/jcr:content/renditions/P-SM-BCC1-3_13507_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-3.html",
         "modelNo": "SM-BCC1-3",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for Japan"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for Japan"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-2_13506_1.jpg/jcr:content/renditions/P-SM-BCC1-2_13506_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-2.html",
         "modelNo": "SM-BCC1-2",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for USA/Canada"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for USA/Canada"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-12_13516_1.jpg/jcr:content/renditions/P-SM-BCC1-12_13516_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-12.html",
         "modelNo": "SM-BCC1-12",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for Brazil"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for Brazil"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-11_13515_1.jpg/jcr:content/renditions/P-SM-BCC1-11_13515_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-11.html",
         "modelNo": "SM-BCC1-11",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for Israel"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for Israel"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-10_13514_1.jpg/jcr:content/renditions/P-SM-BCC1-10_13514_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-10.html",
         "modelNo": "SM-BCC1-10",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for Argentina"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for Argentina"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCableDi2spec",
         "categoryId": "cg4SHICBatteryCableDi2spec",
-        "categoryName": "Battery Cable (DI2 spec.)",
+        "categoryName": "Battery Cable",
         "imageUrl": "/content/dam/global/cg1SHICCycling/final/products/cg2SHICComponent/cg3SHICBatteryCableDi2spec/cg4SHICBatteryCableDi2spec/P-SM-BCC1-1_13505_1.jpg/jcr:content/renditions/P-SM-BCC1-1_13505_1_310_310.jpeg",
         "url": "/en-EU/product/component/ultegra-r8050-di2/SM-BCC1-1.html",
         "modelNo": "SM-BCC1-1",
         "seriesId": "ultegra_r8050",
-        "seriesName": "SHIMANO ULTEGRA R8050 Series",
-        "name": "SHIMANO Battery Charger Cord for Europe"
+        "seriesName": "ULTEGRA R8050",
+        "name": "Battery Charger Cord for Europe"
     },
     {
         "masterCategoryId": "cg3SHICBatteryCharger",
@@ -709,7 +709,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-BCR2.html",
         "modelNo": "SM-BCR2",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Battery Charger/PC Linkage Device"
     },
     {
@@ -720,7 +720,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-BCR1.html",
         "modelNo": "SM-BCR1",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Battery Charger"
     },
     {
@@ -731,7 +731,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/EW-WU111.html",
         "modelNo": "EW-WU111",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Wireless Unit (2 port)"
     },
     {
@@ -742,7 +742,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/EW-WU101.html",
         "modelNo": "EW-WU101",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Wireless Unit"
     },
     {
@@ -753,7 +753,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-PCE1.html",
         "modelNo": "SM-PCE1",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "PC Linkage Device"
     },
     {
@@ -764,7 +764,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-JC41.html",
         "modelNo": "SM-JC41",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Junction B (4 Port)"
     },
     {
@@ -775,7 +775,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-JC40.html",
         "modelNo": "SM-JC40",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Junction B (4 Port)"
     },
     {
@@ -786,7 +786,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-GM02.html",
         "modelNo": "SM-GM02",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Grommet"
     },
     {
@@ -797,7 +797,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-GM01.html",
         "modelNo": "SM-GM01",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Grommet"
     },
     {
@@ -808,7 +808,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/SM-EWC2.html",
         "modelNo": "SM-EWC2",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Electric Wire Cover"
     },
     {
@@ -819,7 +819,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/EW-RS910.html",
         "modelNo": "EW-RS910",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Junction (2 port)"
     },
     {
@@ -830,7 +830,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/EW-JC200.html",
         "modelNo": "EW-JC200",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Junction (2 port)"
     },
     {
@@ -841,7 +841,7 @@
         "url": "/en-US/product/component/ultegra-r8050-di2/EW-JC130.html",
         "modelNo": "EW-JC130",
         "seriesId": "ultegra_r8050",
-        "seriesName": "Ultegra R8050 Series",
+        "seriesName": "Ultegra R8050",
         "name": "Y-connecter Cable"
     },
     {
@@ -852,7 +852,7 @@
         "url": "",
         "modelNo": "ST-6770",
         "seriesId": "ultegra_6770",
-        "seriesName": "Ultegra 6770 Series",
+        "seriesName": "Ultegra 6770",
         "name": "ST-6770"
     },
     {
@@ -863,7 +863,7 @@
         "url": "",
         "modelNo": "FD-6770-F",
         "seriesId": "ultegra_6770",
-        "seriesName": "Ultegra 6770 Series",
+        "seriesName": "Ultegra 6770",
         "name": "FD-6770-F"
     },
     {
@@ -874,7 +874,7 @@
         "url": "",
         "modelNo": "RD-6770-SS",
         "seriesId": "ultegra_6770",
-        "seriesName": "Ultegra 6770 Series",
+        "seriesName": "Ultegra 6770",
         "name": "RD-6770-SS"
     },
     {
@@ -885,7 +885,7 @@
         "url": "",
         "modelNo": "SM-EW67-A-E",
         "seriesId": "ultegra_6770",
-        "seriesName": "Ultegra 6770 Series",
+        "seriesName": "Ultegra 6770",
         "name": "Junction for Around Cockpit Area"
     },
     {
@@ -896,8 +896,8 @@
         "url": "/en-US/product/component/duraace-r9150-di2/ST-R9180-R.html",
         "modelNo": "ST-R9180-R",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
-        "name": "TT/Triathlon Hydraulic Disc Brake DUAL CONTROL LEVER (2x11-speed)"
+        "seriesName": "Dura-Ace R9150",
+        "name": "TT/Triathlon Hydraulic Disc Brake Dual Control Lever (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -907,8 +907,8 @@
         "url": "/en-US/product/component/duraace-r9150-di2/ST-R9180-L.html",
         "modelNo": "ST-R9180-L",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
-        "name": "TT/Triathlon Hydraulic Disc Brake DUAL CONTROL LEVER (2x11-speed)"
+        "seriesName": "Dura-Ace R9150",
+        "name": "TT/Triathlon Hydraulic Disc Brake Dual Control Lever (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -918,8 +918,8 @@
         "url": "/en-US/product/component/duraace-r9150-di2/ST-R9170-R.html",
         "modelNo": "ST-R9170-R",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
-        "name": "Hydraulic Disc Brake DUAL CONTROL LEVER (2x11-speed)"
+        "seriesName": "Dura-Ace R9150",
+        "name": "Hydraulic Disc Brake Dual Control Lever (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -929,8 +929,8 @@
         "url": "/en-US/product/component/duraace-r9150-di2/ST-R9170-L.html",
         "modelNo": "ST-R9170-L",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
-        "name": "Hydraulic Disc Brake DUAL CONTROL LEVER (2x11-speed)"
+        "seriesName": "Dura-Ace R9150",
+        "name": "Hydraulic Disc Brake Dual Control Lever (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -940,8 +940,8 @@
         "url": "/en-US/product/component/duraace-r9150-di2/ST-R9160-R.html",
         "modelNo": "ST-R9160-R",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
-        "name": "TT/Triathlon DUAL CONTROL LEVER (2x11-speed)"
+        "seriesName": "Dura-Ace R9150",
+        "name": "TT/Triathlon Dual Control Lever (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -951,8 +951,8 @@
         "url": "/en-US/product/component/duraace-r9150-di2/ST-R9160-L.html",
         "modelNo": "ST-R9160-L",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
-        "name": "TT/Triathlon DUAL CONTROL LEVER (2x11-speed)"
+        "seriesName": "Dura-Ace R9150",
+        "name": "TT/Triathlon Dual Control Lever (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -962,8 +962,8 @@
         "url": "/en-US/product/component/duraace-r9150-di2/ST-R9150-R.html",
         "modelNo": "ST-R9150-R",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
-        "name": "DUAL CONTROL LEVER (2x11-speed)"
+        "seriesName": "Dura-Ace R9150",
+        "name": "Dual Control Lever (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICShiftBrakeLever",
@@ -973,8 +973,8 @@
         "url": "/en-US/product/component/duraace-r9150-di2/ST-R9150-L.html",
         "modelNo": "ST-R9150-L",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
-        "name": "DUAL CONTROL LEVER (2x11-speed)"
+        "seriesName": "Dura-Ace R9150",
+        "name": "Dual Control Lever (2x11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICShiftingSwitchDi2spec",
@@ -984,7 +984,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SW-R9160.html",
         "modelNo": "SW-R9160",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Remote TT/Triathlon Shifter"
     },
     {
@@ -995,7 +995,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SW-R9150.html",
         "modelNo": "SW-R9150",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Remote Satellite Shifter  (Climbing Shifter)"
     },
     {
@@ -1006,7 +1006,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/FD-R9150.html",
         "modelNo": "FD-R9150",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Front Derailleur (2x11-speed)"
     },
     {
@@ -1017,7 +1017,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-AD91-MS.html",
         "modelNo": "SM-AD91-MS",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Band Adapter"
     },
     {
@@ -1028,7 +1028,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-AD91-L.html",
         "modelNo": "SM-AD91-L",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Band Adapter"
     },
     {
@@ -1039,8 +1039,8 @@
         "url": "/en-US/product/component/duraace-r9150-di2/RD-R9150.html",
         "modelNo": "RD-R9150",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
-        "name": "SHIMANO SHADOW RD (11-speed)"
+        "seriesName": "Dura-Ace R9150",
+        "name": "SHADOW RD (11-speed)"
     },
     {
         "masterCategoryId": "cg3SHICBrakeCable",
@@ -1050,7 +1050,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/BC-9000.html",
         "modelNo": "BC-9000",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Brake Cable"
     },
     {
@@ -1061,7 +1061,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/BT-DN110-A.html",
         "modelNo": "BT-DN110-A",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Built-in Type Battery"
     },
     {
@@ -1072,7 +1072,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/BM-DN100-S.html",
         "modelNo": "BM-DN100-S",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Battery Mount"
     },
     {
@@ -1083,7 +1083,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/BM-DN100-L.html",
         "modelNo": "BM-DN100-L",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Battery Mount"
     },
     {
@@ -1094,7 +1094,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/BM-DN100-I.html",
         "modelNo": "BM-DN100-I",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Long Size Battery Mount"
     },
     {
@@ -1105,7 +1105,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-BCC1-9.html",
         "modelNo": "SM-BCC1-9",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Charger Cord"
     },
     {
@@ -1116,7 +1116,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-BCC1-5.html",
         "modelNo": "SM-BCC1-5",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Charger Cord"
     },
     {
@@ -1127,7 +1127,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-BCC1-4.html",
         "modelNo": "SM-BCC1-4",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Charger Cord"
     },
     {
@@ -1138,7 +1138,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-BCC1-3.html",
         "modelNo": "SM-BCC1-3",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Charger Cord"
     },
     {
@@ -1149,7 +1149,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-BCC1-2.html",
         "modelNo": "SM-BCC1-2",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Charger Cord"
     },
     {
@@ -1160,7 +1160,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-BCC1-1.html",
         "modelNo": "SM-BCC1-1",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Charger Cord"
     },
     {
@@ -1171,7 +1171,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-BCR2.html",
         "modelNo": "SM-BCR2",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Battery Charger/PC Linkage Device"
     },
     {
@@ -1182,7 +1182,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-BCR1.html",
         "modelNo": "SM-BCR1",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Battery Charger"
     },
     {
@@ -1193,7 +1193,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/EW-WU111.html",
         "modelNo": "EW-WU111",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Wireless Unit (2 port)"
     },
     {
@@ -1204,7 +1204,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/EW-WU101.html",
         "modelNo": "EW-WU101",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Wireless Unit"
     },
     {
@@ -1215,7 +1215,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-PCE1.html",
         "modelNo": "SM-PCE1",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "PC Linkage Device"
     },
     {
@@ -1226,7 +1226,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-JC41.html",
         "modelNo": "SM-JC41",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Junction B (4 Port)"
     },
     {
@@ -1237,7 +1237,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-JC40.html",
         "modelNo": "SM-JC40",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Junction B (4 Port)"
     },
     {
@@ -1248,7 +1248,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-GM02.html",
         "modelNo": "SM-GM02",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Grommet"
     },
     {
@@ -1259,7 +1259,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-GM01.html",
         "modelNo": "SM-GM01",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Grommet"
     },
     {
@@ -1270,7 +1270,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/SM-EWC2.html",
         "modelNo": "SM-EWC2",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Electric Wire Cover"
     },
     {
@@ -1281,7 +1281,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/EW-RS910.html",
         "modelNo": "EW-RS910",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Junction (2 port)"
     },
     {
@@ -1292,7 +1292,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/EW-JC200.html",
         "modelNo": "EW-JC200",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Junction (2 port)"
     },
     {
@@ -1303,7 +1303,7 @@
         "url": "/en-US/product/component/duraace-r9150-di2/EW-JC130.html",
         "modelNo": "EW-JC130",
         "seriesId": "duraace_r9150",
-        "seriesName": "Dura-Ace R9150 Series",
+        "seriesName": "Dura-Ace R9150",
         "name": "Y-connecter Cable"
     }
 ]

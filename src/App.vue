@@ -25,7 +25,10 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
 }
 
 body {
@@ -33,11 +36,12 @@ body {
 }
 
 .legal {
-    position: absolute;
-    bottom: 0;
-    text-align: center;
-    background: #009ad9;
-    color: white;
-    width: 100%;
+  text-align: center;
+  background: #009ad9;
+  color: white;
+  width: 100%;
+  padding: 0 1em;
+  box-sizing: border-box;
+  margin-top: 1em;
 }
 </style>
